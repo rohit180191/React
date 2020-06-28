@@ -1,0 +1,18 @@
+{
+  "name": "next-js-demo",
+  "version": "1.0.0",
+  "description": "next js to create react app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "rohit1801.yadav@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
